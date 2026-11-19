@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Auto Fare Fairness Checker (Express version)
 
 ## Requirements
@@ -20,3 +21,7 @@ Run `npm run dev` to restart the server automatically when `server.js` changes (
 - JSON file storage (`fareConfig.json`, `rideLogs.json`)
 
 The app uses Express routing (`app.get`), request query parsing (`req.query`), middleware (`express.urlencoded`), and `app.listen`.
+=======
+# Node_js
+Auto fare fairness checker
+>>>>>>> 71a4f6c8804e73152901e8cf052e65d94988d4b6
