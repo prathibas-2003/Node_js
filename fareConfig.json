@@ -1,0 +1,5 @@
+{
+  "baseFare": 30,
+  "perKmRate": 12,
+  "waitingChargePerMinute": 2
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "2026-11-02T14:43:54.225Z",
+    "distance": 12,
+    "waiting": 2,
+    "expectedFare": 214,
+    "actualFare": 50,
+    "status": "💰 Undercharged"
+  },
+  {
+    "date": "2026-11-02T15:00:50.016Z",
+    "distance": 2,
+    "waiting": 0,
+    "expectedFare": 60,
+    "actualFare": 10,
+    "status": "💰 Undercharged"
+  },
+  {
+    "date": "2/11/2026",
+    "distance": 20,
+    "waiting": 0,
+    "expectedFare": 330,
+    "actualFare": 50,
+    "status": "💰 Undercharged"
+  },
+  {
+    "date": "2/11/2026",
+    "distance": 20,
+    "waiting": 2,
+    "expectedFare": 334,
+    "actualFare": 200,
+    "status": "💰 Undercharged"
+  },
+  {
+    "date": "3/11/2026",
+    "distance": 10,
+    "waiting": 0,
+    "expectedFare": 180,
+    "actualFare": 100,
+    "status": "💰 Undercharged"
+  },
+  {
+    "date": "3/11/2026",
+    "distance": 10,
+    "waiting": 0,
+    "expectedFare": 180,
+    "actualFare": 500,
+    "status": "❌ Overpriced"
+  },
+  {
+    "date": "11/16/2026",
+    "distance": 12,
+    "waiting": 2,
+    "expectedFare": 214,
+    "actualFare": 100,
+    "status": "💰 Undercharged"
+  },
+  {
+    "date": "11/16/2026",
+    "distance": 10,
+    "waiting": 2,
+    "baseFare": 30,
+    "distanceCharge": 120,
+    "waitingCharge": 4,
+    "expectedFare": 154,
+    "actualFare": 200,
+    "difference": 46,
+    "status": "❌ Overpriced"
+  },
+  {
+    "date": "11/16/2026",
+    "distance": 3,
+    "waiting": 2,
+    "baseFare": 30,
+    "distanceCharge": 36,
+    "waitingCharge": 4,
+    "expectedFare": 70,
+    "actualFare": 200,
+    "difference": 130,
+    "status": "❌ Overpriced"
+  },
+  {
+    "date": "11/16/2026",
+    "distance": 20,
+    "waiting": 4,
+    "baseFare": 30,
+    "distanceCharge": 240,
+    "waitingCharge": 8,
+    "expectedFare": 278,
+    "actualFare": 200,
+    "difference": 78,
+    "status": "💰 Undercharged"
+  },
+  {
+    "date": "11/16/2026",
+    "distance": 20,
+    "waiting": 4,
+    "baseFare": 30,
+    "distanceCharge": 240,
+    "waitingCharge": 8,
+    "expectedFare": 278,
+    "actualFare": 500,
+    "difference": 222,
+    "status": "❌ Overpriced"
+  },
+  {
+    "date": "11/16/2026",
+    "distance": 20,
+    "waiting": 4,
+    "baseFare": 30,
+    "distanceCharge": 240,
+    "waitingCharge": 8,
+    "expectedFare": 278,
+    "actualFare": 278,
+    "difference": 0,
+    "status": "✅ Fair Fare"
+  },
+  {
+    "date": "11/16/2026",
+    "distance": 20,
+    "waiting": 4,
+    "baseFare": 30,
+    "distanceCharge": 240,
+    "waitingCharge": 8,
+    "expectedFare": 278,
+    "actualFare": 277,
+    "difference": 1,
+    "status": "💰 Undercharged"
+  },
+  {
+    "date": "11/19/2026",
+    "distance": 4,
+    "waiting": 2,
+    "baseFare": 30,
+    "distanceCharge": 48,
+    "waitingCharge": 4,
+    "expectedFare": 82,
+    "actualFare": 120,
+    "difference": 38,
+    "status": "❌ Overpriced"
+  }
+]
